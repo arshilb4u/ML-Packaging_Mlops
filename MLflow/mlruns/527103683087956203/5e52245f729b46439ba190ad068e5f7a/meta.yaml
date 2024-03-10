@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Downloads/ML_Packaging_Python/MLflow/mlruns/527103683087956203/5e52245f729b46439ba190ad068e5f7a/artifacts
+end_time: 1710046597431
+entry_point_name: ''
+experiment_id: '527103683087956203'
+lifecycle_stage: active
+run_id: 5e52245f729b46439ba190ad068e5f7a
+run_name: salty-ray-972
+run_uuid: 5e52245f729b46439ba190ad068e5f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710046589965
+status: 3
+tags: []
+user_id: lenovo

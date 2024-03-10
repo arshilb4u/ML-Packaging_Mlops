@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Downloads/ML_Packaging_Python/MLflow/mlruns/527103683087956203/31c95163530442e698e2778a1d5ea7c5/artifacts
+end_time: 1710046529713
+entry_point_name: ''
+experiment_id: '527103683087956203'
+lifecycle_stage: active
+run_id: 31c95163530442e698e2778a1d5ea7c5
+run_name: whimsical-worm-426
+run_uuid: 31c95163530442e698e2778a1d5ea7c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710046529427
+status: 4
+tags: []
+user_id: lenovo
